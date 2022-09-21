@@ -10,4 +10,4 @@
 ## Time Spent
 I spent 1 hour to complete this project
 ## Live Link
-Preview the project [Here](https://seorevenue.netlify.app/)
+Preview the project [Here](https://digital-marketing-page-a5.netlify.app)
